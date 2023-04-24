@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-html-link-for-pages */
 /** @format */
 
 import { Inter } from "next/font/google";
