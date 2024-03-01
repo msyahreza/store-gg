@@ -2,10 +2,10 @@
 
 import Image from "next/image";
 import React from "react";
-import TopupForm from "../../../components/organisms/TopupForm";
-import TopupItems from "../../../components/organisms/TopupItems";
-import Header from "../../../components/organisms/Navbar";
-import Footer from "../../../components/organisms/Footer";
+import TopupForm from "../../components/organisms/TopupForm";
+import TopupItems from "../../components/organisms/TopupItems";
+import Header from "../../components/organisms/Navbar";
+import Footer from "../../components/organisms/Footer";
 
 export default function Detail() {
 	return (

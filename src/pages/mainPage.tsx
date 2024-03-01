@@ -2,12 +2,12 @@
 
 import { useEffect } from "react";
 import AOS from "aos";
-import Navbar from "../../components/organisms/Navbar";
-import MainBanner from "../../components/organisms/MainBanner";
-import TransactionStep from "../../components/organisms/TranasctionStep";
-import FeaturedGame from "../../components/organisms/FeaturedGame";
-import Footer from "../../components/organisms/Footer";
-import Story from "../../components/organisms/Story/Index";
+import Navbar from "../components/organisms/Navbar";
+import MainBanner from "../components/organisms/MainBanner";
+import TransactionStep from "../components/organisms/TranasctionStep";
+import FeaturedGame from "../components/organisms/FeaturedGame";
+import Footer from "../components/organisms/Footer";
+import Story from "../components/organisms/Story/Index";
 
 export default function MainPage() {
 	useEffect(() => {
